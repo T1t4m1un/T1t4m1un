@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Code-Vue3-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
 
+![skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,pwsh,js,ts,html,css,vue,nodejs,jquery,vscode,ps,java,nginx,flask,php,wordpress,androidstudio,arduino,bash,docker,git,github,linux,md,mysql,qt,raspberrypi,redis,regex,rust,sqlite)
+
 ## 🛠️ 我的项目
 
 - [LivephotoExtractor](https://github.com/T1t4m1un/LivephotoExtractor): 这是一个帮助提取实况照片中的图片与视频的工具，目前正在施工中。
